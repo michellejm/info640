@@ -9,13 +9,17 @@ We will be using R Studio for writing and interpreting R code. Please [install R
 ## Introduction to R Week 1: 8/27
 
 [Written Guidelines FIX](Labs/IntroductionR_INFO640)
+
 [Video FIX]()
+
 No Data
 
 ## Data Cleaning Week 2: 9/3
 
-[Written Guidelines FIX](Labs/DataCleaningR_INFO640)
+[Written Guidelines FIX](https://github.com/michellejm/info640/blob/master/Labs/DataCleaningR_INFO640.pdf)
+
 [Video FIX]()
+
 No Data
 
 ## Descriptive Data Analysis Week 3: 9/10
