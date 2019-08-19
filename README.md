@@ -1,12 +1,29 @@
-## Welcome to GitHub Pages
+# Welcome to the INFO 640 Labs
 
-You can use the [editor on GitHub](https://github.com/michellejm/info640/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the lab page for INFO 640 at Pratt Institute. Dates apply to Fall 2019. 
+Links to the written guidelines, videos, and datasets for R are all on this site. For the syllabus, [click here FIX](). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We will be using R Studio for writing and interpreting R code. Please [install R Studio FIX]() for your Operating System. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Introduction to R Week 1: 8/27
+
+[Written Guidelines FIX](Labs/IntroductionR_INFO640)
+[Video FIX]()
+No Data
+
+## Data Cleaning Week 2: 9/3
+
+[Written Guidelines FIX](Labs/DataCleaningR_INFO640)
+[Video FIX]()
+No Data
+
+## Descriptive Data Analysis Week 3: 9/10
+
+[Written Guidelines FIX](Labs/DescriptiveDataAnalysisR_INFO640)
+[Video FIX]()
+No Data
+
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +45,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/michellejm/info640/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
