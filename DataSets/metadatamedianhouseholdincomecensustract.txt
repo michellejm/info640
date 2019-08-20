@@ -1,0 +1,120 @@
+STATEFP10
+	State FIPS Code
+		09: Connecticut
+		34: New Jersey
+		36: New York
+
+COUNTYFP10
+	County FIPS Code, Census 2010 (http://www.census.gov/geo/reference/codes/cou.html)
+
+TRACTCE10
+	Census Tract Code, Census 2010 (http://ask.census.gov/faq.php?id=5000&faqId=127)
+
+GEOID10
+	ACS identifier: 2-digit State FIPS, 3 digit County FIPS, 6 digit Census Tract FIPS
+
+
+INTPLAT10
+	Latitude
+
+
+INTPLTON10
+	Longitude
+
+
+STATE
+	State Name
+
+COUNTY
+	County Name
+
+
+HH_COUNT	
+	Number of Households (ACS2010)
+	
+
+OHU_OWN	
+	Number of Owned Occupied Housing Units (ACS2010)
+	
+
+OHU_RENT	
+	Number of Rented Occupied Housing Units (ACS2010)
+	
+
+PERC_OWN	
+	Percent of OHU owned (ACS2010)
+	
+
+PERC_RENT	
+	Percent of OHU rented (ACS2010)
+	
+
+MHI	
+	Median HH Income (ACS2010)
+	
+
+MED_VAL	
+	Median Value of Occupied Housing Unit  (ACS2010)
+	
+
+HOUSINGCOS	
+	Weighted Housing Costs  (ACS2010)
+	
+	
+MCR_ANNUAL	
+	Annual Median Contract Rent (ACS2010)
+	
+
+MSMOC_TOT	
+	Monthly Select Owner Costs w/ or w/o Mortgage  (ACS2010)
+	
+
+	
+TAX_RET	
+	Number of tax returns filed (IRS2008)
+	
+	
+Avg_TransC	
+	Average transportation costs by county (HTI)
+	
+
+
+REtaxperow	
+	Real estate taxes paid per OHU owner in census tract (IRS2008 and ACS2010)
+
+	
+DISP_INC	
+	"Disposable Income: MHI minus TTL, Housing, Transportation, and Energy Costs"
+	
+
+energy_costs	
+	Annual cost of electricity and gas
+
+
+
+REtax_ACS
+	Median Real estate taxes of census tract (ACS2010)
+
+
+AVG_TTL
+	Average Federal, State, & Local Taxes Paid
+
+
+LOCALNAME
+	Name of NYC neighborhood or name of town/borough outside of NYC
+
+
+Area
+	Area (ft) of Census Tract
+
+
+--
+
+
+Credits: Regional Plan Association
+
+
+Sources: ACS 2010, IRS 2008, HTI
+
+
+Use Limitations: Open Data Commons Attribution License
