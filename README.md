@@ -1,16 +1,17 @@
 # Welcome to the INFO 640 Labs
 
 This is the lab page for INFO 640 at Pratt Institute. Dates apply to Fall 2019. 
-Links to the written guidelines, videos, and datasets for R are all on this site. For the syllabus, [click here FIX](). 
+Links to the written guidelines, videos, and datasets for R are all on this site. For the syllabus, [click here](https://github.com/michellejm/info640/blob/master/INFO640_Syllabus_Fall19.pdf). 
 
-We will be using R Studio for writing and interpreting R code. Please [install R Studio FIX]() for your Operating System. 
+We will be using R Studio for writing and interpreting R code. Please [install R Studio](https://github.com/michellejm/info640/blob/master/DownloadR.md) for your Operating System. 
 
 
 ## Introduction to R Week 1: 8/27
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/IntroductionR_INFO640.pdf)
 
-[Video FIX]()
+
+[Video YouTube](https://www.youtube.com/watch?v=qxuElqKiXlE&list=PLbaPbW93g99rMT60_z7vKP_Vs-BnCBJJL&index=3)
 
 No Data
 
@@ -18,7 +19,7 @@ No Data
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/DataCleaningR_INFO640.pdf)
 
-[Video FIX]()
+[Video YouTube](https://www.youtube.com/watch?v=TGqQZdzz6i8&list=PLbaPbW93g99rMT60_z7vKP_Vs-BnCBJJL&index=8)
 
 [Data](https://github.com/michellejm/info640/blob/master/DataSets/mealplan.csv)
 
@@ -26,7 +27,7 @@ No Data
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/DescriptiveDataAnalysisR_INFO640.pdf)
 
-[Video FIX]()
+[Video YouTube](https://www.youtube.com/watch?v=Hu_8R62OlEs&list=PLbaPbW93g99rMT60_z7vKP_Vs-BnCBJJL&index=1)
 
 No Data
 
@@ -34,7 +35,13 @@ No Data
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/DataVisualizationR_INFO640.pdf)
 
-[Video FIX]()
+[Video REQUIRED - Flowers](https://youtu.be/vL8mKs9J1Mc)
+
+Pick one:
+
+[Categorical Variables Video](https://youtu.be/wE3Y_vfIIvU)
+
+[Time Series Video](https://youtu.be/8z0upSZYpZI)
 
 No Data
 
@@ -42,7 +49,7 @@ No Data
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/RegressionR_INFO640.pdf)
 
-[Video FIX]()
+[YouTube Video](https://www.youtube.com/watch?v=Bf5RM_CvJic&list=PLbaPbW93g99rMT60_z7vKP_Vs-BnCBJJL&index=5)
 
 No Data
 
@@ -50,11 +57,14 @@ No Data
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/ProbabilityR_INFO640.pdf)
 
-[Video FIX]()
+[YouTube Video](https://www.youtube.com/watch?v=N7rKPQop1aM&list=PLbaPbW93g99rMT60_z7vKP_Vs-BnCBJJL&index=2)
 
 No Data
 
-## Confidence Week 7: 10/8
+## Break! No Class 10/8
+
+
+## Confidence Week 7: 10/15
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/ConfidenceR_INFO640.pdf)
 
@@ -64,13 +74,14 @@ No Data
 
 [Data Description](https://github.com/michellejm/info640/blob/master/DataSets/Normtemp README.txt)
 
-## Break! No class: 10/15 | No Labs: Week 8 10/22 
+## No Labs: Week 8 10/22 
 
 ## Text Analysis Week 9: 10/29
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/TextAnalysisR_INFO640.pdf)
 
-[Video FIX]()
+
+[YouTube Video](https://www.youtube.com/watch?v=Dw7i8XTKe0g&list=PLbaPbW93g99rMT60_z7vKP_Vs-BnCBJJL&index=7)
 
 [Data: Dickinson](https://github.com/michellejm/info640/blob/master/DataSets/Because-death_Dickinson.txt)
 
@@ -85,7 +96,7 @@ No Data
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/MappingR_INFO640.pdf)
 
-[Video FIX]()
+[YouTube Video](https://www.youtube.com/watch?v=QRVvb4fWnRg&list=PLbaPbW93g99rMT60_z7vKP_Vs-BnCBJJL&index=6)
 
 [Data: 311](https://github.com/michellejm/info640/blob/master/DataSets/311_Service_Requests_from_2010_to_present.csv)
 
@@ -104,7 +115,8 @@ Michelle's API key will be distributed via email if you absolutely cannot get yo
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/MachineLearningR_INFO640.pdf)
 
-[Video FIX]()
+
+[YouTube Video](https://www.youtube.com/watch?v=mpykKFdLnMU&list=PLbaPbW93g99rMT60_z7vKP_Vs-BnCBJJL&index=4)
 
 [Data: Titanic](https://github.com/michellejm/info640/blob/master/DataSets/titanic/)
 
