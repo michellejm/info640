@@ -68,7 +68,7 @@ No Data
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/ConfidenceR_INFO640.pdf)
 
-[Video FIX]()
+[You Tube Video](https://youtu.be/KPv-_bchy1Y)
 
 [Data](https://github.com/michellejm/info640/blob/master/DataSets/Normtemp.csv)
 
