@@ -106,6 +106,8 @@ No Data
 
 [Data Neightborhood Tabluation Areas](https://github.com/michellejm/info640/tree/master/DataSets/Neighborhood%20Tabulation%20Areas-20191108)
 
+[All Mapping Data in a Folder](https://github.com/michellejm/info640/tree/master/DataSets/MappingData)
+
 Michelle's API key will be distributed via email if you absolutely cannot get your own.
 
 
