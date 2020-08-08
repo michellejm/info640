@@ -1,12 +1,12 @@
 # Welcome to the INFO 640 Labs
 
 This is the lab page for INFO 640 at Pratt Institute. Dates apply to Fall 2019. 
-Links to the written guidelines, videos, and datasets for R are all on this site. For the syllabus, [click here](https://github.com/michellejm/info640/blob/master/INFO640_Syllabus_Fall19.pdf). 
+Links to the written guidelines, videos, and datasets for R are all on this site. For the syllabus, [click here](https://github.com/michellejm/info640/blob/master/INFO640_Syllabus_Fall20.pdf). 
 
 We will be using R Studio for writing and interpreting R code. Please [install R Studio](https://github.com/michellejm/info640/blob/master/DownloadR.md) for your Operating System. 
 
 
-## Introduction to R Week 1: 8/27
+## Introduction to R Week 1: 8/24
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/IntroductionR_INFO640.pdf)
 
@@ -15,7 +15,7 @@ We will be using R Studio for writing and interpreting R code. Please [install R
 
 No Data
 
-## Data Cleaning Week 2: 9/3
+## Data Cleaning Week 2: 8/31
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/DataCleaningR_INFO640.pdf)
 
@@ -23,7 +23,7 @@ No Data
 
 [Data](https://github.com/michellejm/info640/blob/master/DataSets/mealplan.csv)
 
-## Descriptive Data Analysis Week 3: 9/10
+## Descriptive Data Analysis Week 3: 9/14
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/DescriptiveDataAnalysisR_INFO640.pdf)
 
@@ -31,7 +31,7 @@ No Data
 
 No Data
 
-## Data Visualization Week 4: 9/17
+## Data Visualization Week 4: 9/21
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/DataVisualizationR_INFO640.pdf)
 
@@ -45,7 +45,9 @@ Pick one:
 
 No Data
 
-## Correlation & Regression Week 5: 9/24
+## No Lab Week 5: 9/28
+
+## Correlation & Regression Week 6: 10/5
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/RegressionR_INFO640.pdf)
 
@@ -53,7 +55,7 @@ No Data
 
 No Data
 
-## Probability Week 6: 10/1
+## Probability Week 7: 10/12
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/ProbabilityR_INFO640.pdf)
 
@@ -61,10 +63,7 @@ No Data
 
 No Data
 
-## Break! No Class 10/8
-
-
-## Confidence Week 7: 10/15
+## Confidence Week 8: 10/19
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/ConfidenceR_INFO640.pdf)
 
@@ -74,9 +73,10 @@ No Data
 
 [Data Description](https://github.com/michellejm/info640/blob/master/DataSets/Normtemp README.txt)
 
-## No Labs: Week 8 10/22 
 
-## Text Analysis Week 9: 10/29
+## No Lab Week 9: 10/26
+
+## Text Analysis Week 10: 11/2
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/TextAnalysisR_INFO640.pdf)
 
@@ -92,7 +92,7 @@ No Data
 [Data Description: Peace Treaties](https://github.com/michellejm/info640/blob/master/DataSets/PA_X_codebook_Version1_Feb_20_20.pdf)
 
 
-## Mapping & Spatial Analysis Week 9: 11/5
+## Mapping & Spatial Analysis Week 11: 11/9
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/MappingR_INFO640.pdf)
 
@@ -108,14 +108,11 @@ No Data
 
 [All Mapping Data in a Folder](https://github.com/michellejm/info640/tree/master/DataSets/MappingData)
 
-Michelle's API key will be distributed via email if you absolutely cannot get your own.
+Let me know if you have trouble getting an API key.
 
+## No Lab Week 12: 11/16
 
-## No Lab Week 10 & 11: 11/12 & 11/19
-
-
-
-## Machine Learning Week 12: 11/26
+## Machine Learning Week 13: 11/23
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/MachineLearningR_INFO640.pdf)
 
@@ -127,7 +124,7 @@ Michelle's API key will be distributed via email if you absolutely cannot get yo
 [Data: Streeteasy](https://github.com/michellejm/info640/blob/master/DataSets/streeteasy.csv)
 
 
-## OPTIONAL Network Analysis Week 13: 12/3
+## OPTIONAL Network Analysis Week 14: 11/30
 
 [Written Guidelines](https://github.com/michellejm/info640/blob/master/Labs/NetworkAnalysisR_INFO640.pdf)
 
