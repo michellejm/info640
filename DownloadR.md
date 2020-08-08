@@ -8,6 +8,6 @@ For Linux: you probably got this without me.
 
 THEN download RStudio from the [RStudio](https://www.rstudio.com/products/rstudio/download/) website. Again, select your OS and walk through the prompts. 
 
-That's it! If you open RStudio and see a blank screen with 3 or 4 quadrants, it was a success! If you are having trouble, we will have a few minutes at the end of class to troubleshoot installation problems. 
+That's it! If you open RStudio and see a blank screen with 3 or 4 quadrants, it was a success! If you are having trouble, be sure to alert Michelle ASAP.
 
 
