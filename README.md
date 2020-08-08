@@ -1,6 +1,6 @@
 # Welcome to the INFO 640 Labs
 
-This is the lab page for INFO 640 at Pratt Institute. Dates apply to Fall 2019. 
+This is the lab page for INFO 640 at Pratt Institute. Dates apply to Fall 2020. 
 Links to the written guidelines, videos, and datasets for R are all on this site. For the syllabus, [click here](https://github.com/michellejm/info640/blob/master/INFO640_Syllabus_Fall20.pdf). 
 
 We will be using R Studio for writing and interpreting R code. Please [install R Studio](https://github.com/michellejm/info640/blob/master/DownloadR.md) for your Operating System. 
